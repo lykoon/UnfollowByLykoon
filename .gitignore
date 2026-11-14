@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ruff_cache/
+.pytest_cache/
+# local data that must never be committed
+.lykoon/
+.ig_unfollow/
+ig_profile*/
+keep.txt
+cooldown*.txt
+state.csv
+following_usernames*.txt
+following.json
+followers_*.json
+*.log
+.DS_Store
